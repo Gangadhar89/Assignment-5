@@ -21,7 +21,6 @@ To run the game, you need to have Python installed on your system. You can downl
 
 To play the game, execute the following command in your terminal or command prompt:
 
-```bash
 python "Guess Game.py"
 
 ## Author
